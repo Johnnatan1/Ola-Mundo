@@ -1,5 +1,6 @@
 # Olá, Mundo!
  Primeiro repositório do curso de Git e GitHub
 
- Repositório criado durante uma aula ao vivo! 
- Digitando  um testo dentro  do GitHub
+ Repositório criado durante uma aula ao vivo!
+ 
+ Digitando  um texto dentro  do GitHub
